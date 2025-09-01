@@ -1,2 +1,2 @@
 # hello-world
-Este repositório é para praticar o fluxo do GitHub.
+Eu sou o Thiago, o aluno preferido do Egydio, esse palmeirense
